@@ -46,5 +46,4 @@ The backend (if used) can be deployed on Render or Railway.
 
 Ines Ben Saad
 
-4. Run the app
-npm run dev
+
